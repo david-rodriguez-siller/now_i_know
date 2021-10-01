@@ -7,3 +7,5 @@ Reflecting on what I learned on SQL: I learned about the LIMIT statement and how
 9/29/21:
 Today I set a goal to start using the USING() command when liking tables as I've been more comfortable using the ON command.
 I also learned how to search a range of characters in a string of text using the REGEXP_LIKE() command.
+9/30/21:
+I learned that iPython and Jupyter notebook are pretty much the same thing. Jupyter notebook is a better way to visualize python coding.
