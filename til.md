@@ -9,3 +9,5 @@ Today I set a goal to start using the USING() command when liking tables as I've
 I also learned how to search a range of characters in a string of text using the REGEXP_LIKE() command.
 9/30/21:
 I learned that iPython and Jupyter notebook are pretty much the same thing. Jupyter notebook is a better way to visualize python coding.
+11/01/21:
+I need to better organized and ask questions on a timely manner when feeling lost in the details of a project.
